@@ -423,7 +423,9 @@ input[type="text"] {
 }
 .footer-img {
     margin-top: 32px;
-    
+    display: flex;
+    justify-content: center;
+    gap: 23px ;
 }
 .footer-content hr {
     width: 70%;
